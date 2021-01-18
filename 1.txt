@@ -3,4 +3,8 @@ KOH
 Apap
 Ghost
 Smarty
+<<<<<<< HEAD
 Spartan
+=======
+
+>>>>>>> 2c38de165a948ca2769b5f8b1d6aec808df96f2c
