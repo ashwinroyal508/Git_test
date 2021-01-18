@@ -2,4 +2,5 @@ Devil
 KOH
 Apap
 Ghost
-
+Smarty
+Spartan
